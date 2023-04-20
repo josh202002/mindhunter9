@@ -22,11 +22,11 @@ body{
     font-weight: 900;
 }
 .indbox{
-    height:760px;
+    height:766px;
     width:400px;
     background-color:#be1010e0;
     position: relative;
-    right:-78%;
+    right:-79%;
     transform: rotate(50deg);
     overflow: hidden;   
 }
