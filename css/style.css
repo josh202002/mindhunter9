@@ -16,7 +16,7 @@ scale: none;
 .about{
     background-color: #be1010e0;
     border-radius: 30px;
-    padding-bottom:195px;
+    padding-bottom:142px;
     padding-top:10px;
     width:50%;
     margin-left:25%
@@ -37,12 +37,22 @@ scale: none;
 }
 .para{
     margin-bottom: 30px;
-    margin-right:90px;
-    margin-left:90px;
+    margin-right:30px;
+    margin-left:30px;
     text-align: justify;
     font-family: 'Jost', sans-serif;
     color: #f1ffb5a1;
     margin-top:-3%;
+}
+.para8{
+    margin-bottom: 30px;
+    margin-right:30px;
+    margin-left:30px;
+    padding: 0%;
+    text-align: justify;
+    font-family: 'Jost', sans-serif;
+    color: #f1ffb5a1;
+    margin: top 0;
 }
 .aboutt para{
     text-align: center;
@@ -52,7 +62,7 @@ scale: none;
 .box{
     width:43%;
     height:40px;
-    margin-top:25px;
+    margin-top:13px;
     font-size: 48px;
     border-radius: 30px;
     margin-left:25%;
@@ -62,8 +72,8 @@ scale: none;
     position: relative;
     float:right;
     color:white;
-    width:60px;
-    top:-60px;
+    width:45px;
+    top:-50px;
     border: 2px solid #ffe4bf;
     border-radius:5px;
     left:-338px;
@@ -88,9 +98,15 @@ scale: none;
 }
 .image1 img {
     position: fixed;
-    top: 370px;
+    top: 452px;
     height: 50px;
-    left: 37%;
+    left: 468px;
+}
+.image12 img {
+    position: fixed;
+    top: 430px;
+    height: 50px;
+    left: 34%;
 }
 .image4 img {
     position: fixed;
@@ -102,28 +118,97 @@ scale: none;
     position: fixed;
     top: 370px;
     height: 60px;
-    left: 37%;
+    left: 452px;
 }
 .image6 img {
     position: fixed;
-    top: 370px;
+    top: 375px;
     height: 45px;
-    left: 37%;
+    left: 541px;
+}
+.image61 img {
+    position: fixed;
+    top: 375px;
+    height: 45px;
+    left: 445px;
+}
+.image7 img {
+    position: fixed;
+    top: 402px;
+    height: 35px;
+    left: 500px;
+}
+.image17 img {
+    position: fixed;
+    top: 396px;
+    height: 50px;
+    left: 454px;
 }
 
 .about h6 {
     font-size: 12px;
     font-family: Jost;
     color: white;
-    margin-left: -195px;
+    margin-left: -271px;
     letter-spacing: .2mm;
 }
 .findings {
     width: 26%;
     text-align: justify;
     position: fixed;
-    left: 495px;
-    top: 297px;
+    left: 457px;
+    top: 344px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings2 {
+    width: 400px;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 302px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+
+.findings3 {
+    width: 400px;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 281px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings4 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 278px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings5 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 278px;
+    font-family: Jost;
+    font-size: 13px;
+    color:#ffe4bf8a;
+}
+.findings6 {
+    width: 26%;
+    text-align: justify;
+    position: fixed;
+    left: 450px;
+    top: 298px;
     font-family: Jost;
     font-size: 13px;
     color:#ffe4bf8a;
